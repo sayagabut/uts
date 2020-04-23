@@ -1,0 +1,19 @@
+body{
+    backgroudn-color: #A9A9A9;
+    font: 16px/20px arial;
+}
+
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+.header{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.header judul{
+    font-size: 50px;
+}
